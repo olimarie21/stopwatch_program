@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "timer.html",
+  "start_url": "stopwatch.html",
   "display": "fullscreen",
   "background_color": "#FFF",
   "theme_color": "#fff"
